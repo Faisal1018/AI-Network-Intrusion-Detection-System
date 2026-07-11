@@ -59,6 +59,14 @@ An interactive Streamlit dashboard was developed for real-time DDoS attack detec
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Dataset
+
+The dataset is not included in this repository due to file size limitations.
+
+Dataset Source:
+
+https://www.kaggle.com/code/chethuhn/anomaly-detection-in-network-dataset/data
+
 
 ---
 

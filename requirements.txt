@@ -4,4 +4,4 @@ scikit-learn
 matplotlib
 seaborn
 streamlit
-joblibgit add .
+joblib
